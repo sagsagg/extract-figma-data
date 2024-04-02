@@ -1,0 +1,13 @@
+{
+  "name": "extract-figma-data",
+  "version": "1.0.0",
+  "description": "Extract figma data after fetch them from Figma file",
+  "main": "index.js",
+  "repository": "https://github.com/sagsagg/extract-figma-data",
+  "author": "sang",
+  "license": "MIT",
+  "devDependencies": {
+    "JSONStream": "^1.3.5",
+    "event-stream": "^4.0.1"
+  }
+}
